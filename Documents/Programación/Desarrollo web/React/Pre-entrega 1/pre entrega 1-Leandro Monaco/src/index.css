@@ -1,0 +1,21 @@
+
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+ 
+}
+.navbar-brand
+{
+  color: red;
+}
+
+.itemList {
+  padding: 2em;
+
+}
+
+
