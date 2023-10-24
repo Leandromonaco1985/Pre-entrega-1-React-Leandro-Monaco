@@ -1,4 +1,5 @@
 import React from 'react'
+import style from './cartWidget.css'
 
 export const CartWidget = () => {
   return (

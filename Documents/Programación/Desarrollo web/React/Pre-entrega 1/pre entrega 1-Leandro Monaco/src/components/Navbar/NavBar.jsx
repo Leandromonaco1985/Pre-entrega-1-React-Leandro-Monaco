@@ -1,5 +1,6 @@
 import React from 'react'
-import { CartWidget } from './CartWidget'
+import { CartWidget } from '../CartWidget/CartWidget'
+import styles from "./NavBar.modules.css"
 
 export const NavBar = () => {
   return (
